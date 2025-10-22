@@ -44,6 +44,7 @@ public class RandomCubes : MonoBehaviour
                 Instantiate(Cubes[Array], randomSpawnPosition, transform.rotation);
                 timer = 0f;
             }
+            //Note to self; Too random I need to make the Maze more specific
         }
     }
 }
