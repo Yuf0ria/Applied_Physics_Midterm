@@ -1315,6 +1315,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50e15930238d8fe4ea90d6ad178a9c0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Cubes:
+  - {fileID: 256697224960718142, guid: 3295c6d7d75eb4b4ebedfd826e3792ed, type: 3}
+  - {fileID: 3302111903987038192, guid: db750f02d369737429fd7e0d10aeb211, type: 3}
+  - {fileID: 9194535346319763744, guid: 6409511aeaa199548addcd6b55930c11, type: 3}
   Large: {fileID: 256697224960718142, guid: 3295c6d7d75eb4b4ebedfd826e3792ed, type: 3}
   Medium: {fileID: 3302111903987038192, guid: db750f02d369737429fd7e0d10aeb211, type: 3}
   Small: {fileID: 9194535346319763744, guid: 6409511aeaa199548addcd6b55930c11, type: 3}
